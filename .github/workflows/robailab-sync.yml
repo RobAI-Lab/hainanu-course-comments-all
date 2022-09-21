@@ -45,7 +45,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: robai-lab/hainanu-course-comments-all
+          external_repository: robai-lab/hainanu-course-resource
           publish_branch: gh-pages
           publish_dir: ./site
 
