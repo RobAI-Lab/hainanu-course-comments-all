@@ -10,15 +10,13 @@
 
 **点击[这里](https://curly-shape-d178.qinse.workers.dev/https://github.com/beiyuouo/hainanu-course-comments/releases/download/latest/release.zip)可以直接利用CDN下载所有文件**
 
-既然来了，就去给[仓库](https://github.com/beiyuouo/hainanu-course-comments)点一个小星星吧！顺便分享给自己的朋友，万一复习期间用得到呢！
-
-> 截止至*2021-10-28 00:00:00*，在网站上线的第一天中，网站获得了**474**的浏览量，获得了**255**个新用户，收获了**8**个star和**4**个fork！！
+既然来了，就去给[仓库](https://github.com/RobAI-Lab/hainanu-course-comments-all)点一个小星星吧！顺便分享给自己的朋友，万一复习期间用得到呢！
 
 > 感谢在第一天为网站宣传的同学们，网站的发展离不开各位的持续关注！
 
 > 希望这个项目能够持续运行下去，估计在选课期间和期末会收到很多流量，但是平日的维护才是网站持续发展的根基，如果你有什么好的想法，也欢迎和我交流。
 
-同时，[RobAI-Lab](https://github.com/RobAI-Lab)搭建了本站的镜像站可以查看[这里](https://robai-lab.github.io/hainanu-course-comments/)
+同时，[RobAI-Lab](https://github.com/RobAI-Lab)搭建了本站的镜像站可以查看[这里](https://github.com/RobAI-Lab/hainanu-course-resource)
 
 ## 特性
 
@@ -44,7 +42,7 @@ Issue、PR、纠错、资料、攻略、评论，各种欢迎！
 
 来自大家的关注、维护和贡献，才是让这个项目质量越来越好的动力~
 
-详细的贡献指南请移步[使用指南](https://www.bj-yan.top/hainanu-course-comments/0.资源导航/使用指南/)
+详细的贡献指南请移步[使用指南](https://robai-lab.github.io/hainanu-course-resource/0.%E8%B5%84%E6%BA%90%E5%AF%BC%E8%88%AA/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
 
 > 注：为了方便起见，课程评价可以直接写在评论区，相关资源请提pr~
 
