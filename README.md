@@ -40,8 +40,6 @@ Issue、PR、纠错、资料、攻略、评论，各种欢迎！
 
 请勿发布任何侵权内容。
 
-如果侵犯到您的权益，请联系Email: [robai-lab@hainanu.edu.cn](mailto:robai-lab@hainanu.edu.cn)删除
-
 ## 许可
 
 由贡献者编写部分的许可如下：
