@@ -46,7 +46,7 @@ Issue、PR、纠错、资料、攻略、评论，各种欢迎！
 
 > 注：为了方便起见，课程评价可以直接写在评论区，相关资源请提pr~
 
-> 另外，如果你使用[GitHub](https://github.com)不是很熟练，也可以发送邮件联系维护者贡献内容 Email: (前维护者)[bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com)         （现维护者）[star@hainanu.edu.cn](mailto:star@hainanu.edu.cn) （如果希望加入贡献者，请留下昵称和Email）
+> 另外，如果你使用[GitHub](https://github.com)不是很熟练，也可以发送邮件联系维护者贡献内容 Email: [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com)          [star@hainanu.edu.cn](mailto:star@hainanu.edu.cn) （如果希望加入贡献者，请留下昵称和Email）
 
 ## 警告
 
