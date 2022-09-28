@@ -11,7 +11,7 @@ README_MD = ["README.md", "readme.md", "index.md"]
 TXT_EXTS = ["md", "txt"]
 TXT_URL_PREFIX = "https://github.com/RobAI-Lab/hainanu-course-comments-all/blob/main/"
 BIN_URL_PREFIX = "https://github.com/RobAI-Lab/hainanu-course-comments-all/raw/main/"
-CDN_PREFIX = "https://dl.capoo.xyz/"
+CDN_PREFIX = "https://a.lab233.workers.dev/"
 CDN_RAW_PREFIX = "https://github.com/RobAI-Lab/hainanu-course-comments-all/blob/zips/"
 
 
@@ -52,6 +52,7 @@ def list_files(course: str):
     filelist_texts_org += (
         f"- [{os.path.basename(course)}.zip({get_file_size(zip_path)})]({CDN_RAW_PREFIX}{course}.zip)\n\n"
     )
+    
 
     readme_path = ""
     for root, dirs, files in os.walk(course):
