@@ -9,10 +9,10 @@ EXCLUDE_DIRS = [".git", "docs", ".vscode", "overrides", ".github", "script", "im
 README_MD = ["README.md", "readme.md", "index.md"]
 
 TXT_EXTS = ["md", "txt"]
-TXT_URL_PREFIX = "https://github.com/beiyuouo/hainanu-course-comments/blob/main/"
-BIN_URL_PREFIX = "https://github.com/beiyuouo/hainanu-course-comments/raw/main/"
+TXT_URL_PREFIX = "https://github.com/RobAI-Lab/hainanu-course-comments-all/blob/main/"
+BIN_URL_PREFIX = "https://github.com/RobAI-Lab/hainanu-course-comments-all/raw/main/"
 CDN_PREFIX = "https://dl.capoo.xyz/"
-CDN_RAW_PREFIX = "https://github.com/beiyuouo/hainanu-course-comments/blob/zips/"
+CDN_RAW_PREFIX = "https://github.com/RobAI-Lab/hainanu-course-comments-all/blob/zips/"
 
 
 def make_zip(dir_path, zip_path):
