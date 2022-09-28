@@ -11,7 +11,7 @@ README_MD = ["README.md", "readme.md", "index.md"]
 TXT_EXTS = ["md", "txt"]
 TXT_URL_PREFIX = "https://github.com/RobAI-Lab/hainanu-course-comments-all/blob/main/"
 BIN_URL_PREFIX = "https://github.com/RobAI-Lab/hainanu-course-comments-all/raw/main/"
-CDN_PREFIX = "https://dl.capoo.xyz/"
+CDN_PREFIX = "https://a.lab233.workers.dev/"
 CDN_RAW_PREFIX = "https://github.com/RobAI-Lab/hainanu-course-comments-all/blob/zips/"
 
 
