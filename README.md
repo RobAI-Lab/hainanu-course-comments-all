@@ -28,8 +28,6 @@ Issue、PR、纠错、资料、攻略、评论，各种欢迎！
 
 RobAI-Lab和海南大学机器人与人工智能协会是这个项目的主要维护团队。
 
-详细的贡献指南请移步[使用指南](https://robai-lab.github.io/hainanu-course-resource/0.%E8%B5%84%E6%BA%90%E5%AF%BC%E8%88%AA/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
-
 ## 警告
 
 请遵守社会公约，文明发言。
